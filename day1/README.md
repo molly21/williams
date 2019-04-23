@@ -1,0 +1,1 @@
+this is a lecture class on how to create a README file
